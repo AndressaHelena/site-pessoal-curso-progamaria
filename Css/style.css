@@ -1,74 +1,75 @@
 body{
-    text-align: center;
-    font-family: open sans, sans-serif;
-    background-color: #e3e6eb;
-    color:#ffff;
-    margin: 0;
+  text-align: center;
+  font-family: open sans, sans-serif;
+  background-color: #e3e6eb;
+  color:#ffff;
+  margin: 0;
   }
-  h1{
-    font-size: 60px;
-    font-weight: 300;
-    color:#603f8b;
-  }
-  h2{
-    color: #2a0074;
-    font-size: 40px;
-  }
-  h3{
-    font-size: 22px;
-    font-style: italic;
-  }
-  p{
-    color:#2a0074;
-    font-size: 20px;
-    line-height: 1.5;
-  }
-  .titulo-roxo{
-    color: #42124c;
-  }
-  .titulo-rosa{
-    color: #fe0472;
-  }
-  .titulo-amarelo{
-    color: #ffe36d;
-  }
-  section{
-    max-width: 60%;
-    margin: 0 auto;
-  }
-  section section{
-    max-width: 100%;
-  }
-  img{
-   width: 100%;
-   height:60% ;
-  
-  }
-  ul{
-    list-style-type: none;
-    line-height: 2;
-    padding-left: 0;
-  }
-  a{
-    color: #40cbea;
-    font-weight: 600;
-    text-decoration: none;
-  }
-  .principal{
-    background: #fe86c1;
-    height:50px;
-    width: 100%;
-  
-  }
-  .principal a{
-    color: #ffff;
-    font-weight: normal;
-    font-size: 22px;
-    margin:15px;
-    line-height: 2;
-  
-  }
-  .pensar{
-  text-decoration-line: underline;
-  }
+
+h1{
+  font-size: 60px;
+  font-weight: 300;
+  color:	#484164;
+}
+h2{
+  color: #2a0074;
+  font-size: 40px;
+}
+h3{
+  font-size: 22px;
+  font-style: italic;
+}
+p{
+  color:#2a0074;
+  font-size: 20px;
+  line-height: 1.5;
+}
+.titulo-roxo{
+  color: #42124c;
+}
+.titulo-rosa{
+  color: #fe0472;
+}
+.titulo-amarelo{
+  color: #ec6831;
+}
+section{
+  max-width: 60%;
+  margin: 0 auto;
+}
+section section{
+  max-width: 100%;
+}
+img{
+  width: 100%;
+  height:60% ;
+
+}
+ul{
+  list-style-type: none;
+  line-height: 2;
+  padding-left: 0;
+}
+a{
+  color: #40cbea;
+  font-weight: 600;
+  text-decoration: none;
+}
+.principal{
+  background:#d64770;
+  height:50px;
+  width: 100%;
+
+}
+.principal a{
+  color: #ffff;
+  font-weight: normal;
+  text-transform: uppercase;
+  font-size: 22px;
+  margin:15px;
+  line-height: 2;
+}
+.pensar{
+text-decoration-line: underline;
+}
   
